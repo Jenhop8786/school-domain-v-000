@@ -1,6 +1,6 @@
 class School
   initialize(new)
-  @school = school 
+  @school = school
   
-  
+
 end
